@@ -11,17 +11,17 @@ ROWS = 3
 COLS = 3
 
 symbol_count = {
-    "A" : 3,
-    "B" : 5,
-    "C" : 6,
-    "D" : 9
+    "🦞" : 3,
+    "🍒" : 5,
+    "🔔" : 6,
+    "🍋" : 9
     }
 
 symbol_value = {
-    "A" : 5,
-    "B" : 4,
-    "C" : 3,
-    "D" : 2
+    "🦞" : 5,
+    "🍒" : 4,
+    "🔔" : 3,
+    "🍋" : 2
     }
 
 #Checks the list to see if you have 3 of the same symbols in a row
